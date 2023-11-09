@@ -22,6 +22,10 @@ SEARCH VİEW
 
 ![image](https://github.com/berfinilik/Notes-App/assets/140311905/065cab88-45f6-4ee3-a936-5e86a257a0b8)
 
+DELETE
+
+![image](https://github.com/berfinilik/Notes-App/assets/140311905/ca3f1e26-4289-4f0a-bac6-b7799c45ca0c)
+
 
 
 
