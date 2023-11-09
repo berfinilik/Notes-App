@@ -8,7 +8,8 @@ SPLASH SCREEN
 
 NOTES
 
-![image](https://github.com/berfinilik/Notes-App/assets/140311905/d7eaea4e-d0a5-4602-9a41-146af988e9c5)
+![image](https://github.com/berfinilik/Notes-App/assets/140311905/615d1622-4e17-4591-9b55-96dc076c00a7)
+
 
 CREATE NOTE
 
